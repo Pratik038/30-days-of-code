@@ -1,3 +1,4 @@
+## HI i am Pratik
 class Solution {
 public:
     int findDuplicates(vector<int>& nums) {
